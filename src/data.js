@@ -154,7 +154,7 @@ import Skill3 from "/assets/skills/skill3.webp";
 import Skill4 from "/assets/skills/skill4.webp";
 import Skill5 from "/assets/skills/skill5.webp";
 import Skill6 from "/assets/skills/skill6.webp";
-import Skill7 from "/assets/skills/skill6.webp";
+import Skill7 from "/assets/skills/skill7.webp";
 
 export const listSkill = [
   {
