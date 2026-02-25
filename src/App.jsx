@@ -57,7 +57,7 @@ function App() {
             </a>
           </div>
         </div>
-        <img src={Dataimage.HeroImage} alt="Hero Image" className="w-[500px] md:ml-auto animate__animated animate__fadeInRight animate__delay-3s" />
+        <img src={Dataimage.HeroImage} alt="Hero Image" className="w-[500px] mt-20 md:mt-0 md:ml-auto animate__animated animate__fadeInRight animate__delay-3s" />
       </div>
 
       {/* tentang */}
